@@ -30,102 +30,118 @@
             ]
         },
         {
-            "day": "Martes - Espalda y Bíceps",
+            "day": "Martes - Pierna",
             "exercises": [
                 {
-                    "name": "Dominadas con Peso",
-                    "sets": "4 series x 6-8 repeticiones"
+                    "name": "Vuelo lateral en polea",
+                    "sets": "2 series x 6-8 repeticiones"
                 },
                 {
-                    "name": "Remo con Barra T",
-                    "sets": "3 series x 8-10 repeticiones"
+                    "name": "Gemelos en Prensa",
+                    "sets": "2 series x 6-10 repeticiones (4 segundos)"
                 },
                 {
-                    "name": "Jalón al Pecho",
-                    "sets": "3 series x 10-12 repeticiones"
+                    "name": "Prensa",
+                    "sets": "2 series x 5-8 repeticiones"
                 },
                 {
-                    "name": "Curl de Bíceps con Barra",
-                    "sets": "3 series x 8-10 repeticiones"
+                    "name": "Camilla de Isquios",
+                    "sets": "2 series x 6-10 repeticiones"
                 },
-                {
-                    "name": "Curl Martillo",
-                    "sets": "3 series x 12-15 repeticiones"
-                }
-            ]
-        },
-        {
-            "day": "Miércoles - Piernas",
-            "exercises": [
                 {
                     "name": "Sentadillas con Barra",
-                    "sets": "4 series x 6-8 repeticiones (peso pesado)"
-                },
-                {
-                    "name": "Prensa de Piernas",
                     "sets": "3 series x 8-10 repeticiones"
                 },
                 {
                     "name": "Extensiones de Cuádriceps",
-                    "sets": "3 series x 12-15 repeticiones"
+                    "sets": "2 series x 6-10 repeticiones"
                 },
                 {
-                    "name": "Curl de Femoral Acostado",
-                    "sets": "3 series x 10-12 repeticiones"
-                },
-                {
-                    "name": "Elevaciones de Gemelos",
-                    "sets": "4 series x 15-20 repeticiones"
+                    "name": "Crunch Declinado",
+                    "sets": "3 series x 8-15 repeticiones"
                 }
             ]
         },
         {
-            "day": "Jueves - Hombros y Trapecios",
+            "day": "Miércoles - OPCIONAL",
             "exercises": [
                 {
-                    "name": "Press Militar con Barra",
-                    "sets": "4 series x 6-8 repeticiones"
+                    "name": "Curl de Bíceps con Barra",
+                    "sets": "3 series x 8-12 repeticiones"
                 },
                 {
-                    "name": "Elevaciones Laterales con Mancuernas",
+                    "name": "Press Francés con Mancuernas",
+                    "sets": "3 series x 10-15 repeticiones"
+                },
+                {
+                    "name": "Curl Martillo con Mancuernas",
+                    "sets": "3 series x 8-12 repeticiones"
+                },
+                {
+                    "name": "Extensiones de Tríceps en Polea",
                     "sets": "3 series x 12-15 repeticiones"
                 },
                 {
-                    "name": "Face Pull",
-                    "sets": "3 series x 12-15 repeticiones"
+                    "name": "Elevaciones de Piernas Colgado",
+                    "sets": "3 series x al fallo"
                 },
                 {
-                    "name": "Encogimientos de Hombros con Barra",
-                    "sets": "3 series x 10-12 repeticiones"
-                },
-                {
-                    "name": "Elevaciones Frontales",
-                    "sets": "3 series x 12-15 repeticiones"
+                    "name": "Plancha Abdominal",
+                    "sets": "3 series x 60 segundos"
                 }
             ]
         },
         {
-            "day": "Viernes - Full Body",
+            "day": "Jueves - TORSO",
             "exercises": [
+                {
+                    "name": "Vuelo lateral en polea",
+                    "sets": "2 series x 6-8 repeticiones"
+                },
+                {
+                    "name": "Crunce en polea",
+                    "sets": "2 series x 6-10 repeticiones"
+                },
+                {
+                    "name": "Press Militar",
+                    "sets": "2 series x 5-8 repeticiones"
+                },
+                {
+                    "name": "Press plano",
+                    "sets": "2 series x 6-8 repeticiones"
+                },
+                {
+                    "name": "Dominadas",
+                    "sets": "2 series x 10-16 repeticiones"
+                },
+                {
+                    "name": "Dorsales en polea",
+                    "sets": "2 series x 8-12 repeticiones"
+                }
+            ]
+        },
+        {
+            "day": "Viernes - PIERNA",
+            "exercises": [
+                {
+                    "name": "Sentadillas",
+                    "sets": "2 series x 4-7 repeticiones"
+                },
                 {
                     "name": "Peso Muerto",
-                    "sets": "4 series x 6-8 repeticiones (peso pesado)"
+                    "sets": "2 series x 5-8 repeticiones"
                 },
                 {
-                    "name": "Press de Banca Inclinado",
-                    "sets": "3 series x 8-10 repeticiones"
+                    "name": "Extensiones de Cuádriceps",
+                    "sets": "2 series x 6-10 repeticiones"
                 },
                 {
-                    "name": "Remo con Barra",
-                    "sets": "3 series x 8-10 repeticiones"
+                    "name": "Elevaciones de Gemelos de Pie",
+                    "sets": "3 series x 8-12 repeticiones"
                 },
                 {
-                    "name": "Sentadillas Frontales",
-                    "sets": "3 series x 8-10 repeticiones"
-                },
-                {
-                    "name": "Press Militar con Mancuernas",
-                    "sets": "3 series x 10-12 repeticiones"
+                    "name": "Elevaciones de Piernas Colgado",
+                    "sets": "2 series x al fallo"
                 }
             ]
         }
